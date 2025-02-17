@@ -7,7 +7,7 @@ public class Menu4 {
     Scanner sc = new Scanner(System.in);
         
     int num = 0;
-    while (num != 1010) {
+    while (num != 5) {
 
     System.out.println("\nDigite um número: ");
     int primeiroNumero=sc.nextInt();    
