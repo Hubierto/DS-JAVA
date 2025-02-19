@@ -20,7 +20,9 @@ public class IfElse {
             else{
                 System.out.println("Valor nulo!");
             }
+            
         }
+        sc.close();
     }
     
 }
